@@ -1,0 +1,18 @@
+
+{
+  "DIGITAL_DETECTION": {
+    "ICON": "C:\\AllFile\\Project\\Pyqt\\plant\\pycode\\sources\\plugins.png",
+    "URL": "https://cn.bing.com/",
+    "NAME": "手写数字识别插件",
+    "BRIEF": "识别手写数字到计算机，简单使用而又强大",
+    "DETAILS": "details!"
+  },
+  "LICENSE_PLATE": {
+    "ICON": "C:\\AllFile\\Project\\Pyqt\\plant\\pycode\\sources\\plugins.png",
+    "URL": "https://cn.bing.com/",
+    "NAME": "车牌识别插件",
+    "BRIEF": "简单易用的车牌识别插件",
+    "DETAILS": "details!"
+  }
+}
+
